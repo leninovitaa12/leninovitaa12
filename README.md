@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Leni Novita 🌷</h1>
+<h1 align="left">Hi, I'm Leni Novita</h1>
 
 I'm an Information Technology student who mostly works with **web development** using **HTML5, CSS, JavaScript, Laravel, React,** and **Python**.  
 Lately, I’ve also been exploring **machine learning**, **IoT**, and **intelligent systems** — learning how these areas connect and support modern web solutions.  
