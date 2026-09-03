@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Leni Novita</h1>
 
-I'm an Information Technology student who mostly works with **web development** using **HTML5, CSS, JavaScript, Laravel, React,** and **Python**.  
+I'm an Fresh Graduate in Information Technology who mostly works with **web development** using **HTML5, CSS, JavaScript, Laravel, React,** and **Python**.  
 Lately, I’ve also been exploring **machine learning**, **IoT**, and **intelligent systems** — learning how these areas connect and support modern web solutions.  
 I enjoy creating simple and practical projects that focus on usability and clean design.
 
